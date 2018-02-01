@@ -1,5 +1,5 @@
---- 
-filenames: 
-  - test1
-  - test2
-  - test3
+tstprefix: 
+  filenames: 
+    - test1
+    - test2
+    - test3
